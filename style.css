@@ -1,5 +1,5 @@
 section {
-    height: 100%;
+    height: auto;
     background-color: rgb(123, 16, 165); /* For browsers that do not support gradients */
     background-image: linear-gradient(to right, rgb(29, 7, 109) , rgb(13, 8, 58));
 }
