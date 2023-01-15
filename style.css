@@ -1,3 +1,7 @@
+body, nav, section, footer {
+    height: auto;
+}
+
 section {
     height: auto;
     background-color: rgb(123, 16, 165); /* For browsers that do not support gradients */
